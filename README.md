@@ -96,10 +96,6 @@ The resolver works by:
 
 - Requires root/administrator privileges to use raw sockets
 - Currently only supports A record queries (IPv4 addresses)
-- Limited to a specific set of allowed domains for security reasons:
-  - google.com
-  - github.com
-  - wikipedia.com
 
 ## Technical Notes
 
